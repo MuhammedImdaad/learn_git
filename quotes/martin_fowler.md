@@ -11,4 +11,5 @@ that any comment becomes superfluous.
 Often designers do complicated things that improve the capacity on a particular
 hardware platform when it might actually be cheaper to buy more hardware.
 
+[added nothing]
 [2012, Patterns of Enterprise Application Architecture]
